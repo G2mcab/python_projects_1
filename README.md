@@ -5,4 +5,5 @@ Python 3.8 sample projects
 
 password generator -gernerate random password combination based on your length u specified
 spam_1 - writes messages on screen when enter is clicked based on the limit you set
-Countdown_timer_1 - counts time in seconds
+countdown_timer_1 - counts time in seconds
+digital_clock_1 - displays the clock
