@@ -13,10 +13,3 @@ tasks:
       
   - command: |
       source venv/bin/activate
-  
-ports:
-  - port: 8000
-    visibility: private
-    onOpen: open-preview
-
-
