@@ -2,6 +2,7 @@ tasks:
   - init: |
       python -m venv venv
       source venv/bin/activate
+      pip install pyautogui
       
   - command: |
       source venv/bin/activate
