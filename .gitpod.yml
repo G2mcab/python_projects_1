@@ -2,7 +2,8 @@ tasks:
   - init: |
       python -m venv venv
       source venv/bin/activate
-      pip install pyautogui
+      pip install 
+      sudo apt-get install python-tk python-dev -y
       
   - command: |
       source venv/bin/activate
