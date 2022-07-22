@@ -11,6 +11,4 @@ ports:
     visibility: private
     onOpen: open-preview
 
-vscode:
-  extensions:
-    - ms-python.python
+
