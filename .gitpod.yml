@@ -4,7 +4,12 @@ tasks:
       source venv/bin/activate
       pip install pyautogui
       pip install prettytable
+      pip install pyttsx3
+      pip install wikipedia
+      pip install lxml
+      pip install html5lib
       sudo apt-get install python-tk python-dev -y
+      sudo apt install libespeak1 -y
       
   - command: |
       source venv/bin/activate
